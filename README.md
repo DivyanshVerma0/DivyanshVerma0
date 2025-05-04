@@ -1,12 +1,6 @@
 <div align="center">
-  <img height="270" src="img1.png" />
+  <img height="220" src="img1.png" />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnYydXhwZDNocHR4MjU0Z2JoMXJhc2s3a29jZno0NGs1bndrejhndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTMgE8owWM0q7iTKzx/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
